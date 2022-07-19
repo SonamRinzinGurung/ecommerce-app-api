@@ -1,3 +1,3 @@
-# ecommerce-app-api
+# E-commerce Web App API
 
-API for E-commerce web application. Includes fetures such as viewing, searching, sorting and filtering products.
+API for E-commerce web application. Includes features such as viewing, searching, sorting and filtering products.
